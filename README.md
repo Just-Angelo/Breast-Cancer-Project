@@ -4,14 +4,7 @@ A group project involving the potential utilisation of various neural network al
 The data is too big for my Git Hub.
 
 Results:
-
-AUC 
-	                          Training AUC	Test AUC
-ResNet152V2	                  0.977	        0.860
-VGG16	                      0.5	        0.5
-VGG16(Batch Normalisation)	  0.718	        0.728
-InceptionV3              	  0.713	        0.736
-AlexNet	                      0.874	        0.817
+<img width="641" height="224" alt="image" src="https://github.com/user-attachments/assets/52945c70-7474-44d3-bbd4-fd117ec5ce0f" />
 
 Link to dataset:
 https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset
