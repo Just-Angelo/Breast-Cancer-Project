@@ -7,11 +7,11 @@ Results:
 
 AUC 
 	                          Training AUC	Test AUC
-ResNet152V2	                 0.977	       0.860
-VGG16	                       0.5	         0.5
-VGG16(Batch Normalisation)	 0.718	       0.728
-InceptionV3              	   0.713	       0.736
-AlexNet	                     0.874	       0.817
+ResNet152V2	                  0.977	        0.860
+VGG16	                      0.5	        0.5
+VGG16(Batch Normalisation)	  0.718	        0.728
+InceptionV3              	  0.713	        0.736
+AlexNet	                      0.874	        0.817
 
 Link to dataset:
 https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset
